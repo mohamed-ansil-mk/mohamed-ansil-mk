@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>AI & Data Science Engineer | Python Developer | ML & NLP Enthusiast</strong><br>
-  📍 UAE | 🌍 Open to International Opportunities
+  📍 KOCHI | 🌍 Open to International Opportunities
 </p>
 
 ---
@@ -16,8 +16,6 @@
 🚀 Passionate about solving real-world problems with AI, Computer Vision, and NLP  
 📚 Exploring LLMs, LangChain, RAG, Generative AI, and Deep Learning  
 💡 Strong focus on AI-powered automation, search systems & intelligent assistants
-
----
 
 
 
