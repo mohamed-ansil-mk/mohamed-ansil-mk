@@ -1,17 +1,17 @@
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt = "mohamed ansil emotional AI NPC developer"> Mohamed Ansil MK
 *⁠ Human Voice Architect (Backend Engineer / Conversational AI Specialist / Emotionally Intelligent NPC Developer) ⁠*
 
-I'm a backend engineer transforming systems into *emotionally intelligent experiences—not just building APIs, but crafting AI that *feels human. My foundation in clean, modular architecture (NestJS, PostgreSQL, Drizzle ORM) powers what matters most: *NPCs that don't just talk—but *remember, feel, and react like real beings**.
+---
 
-I'm currently executing a *15-project roadmap* to pioneer the future of human-sounding conversational AI:
+### 🧠 About Me
 
-🔥 *Phase 1: Building NPCs with *procedural dialogue that adapt to world-state changes  
-🔥 *Phase 2: Integrating *voice + emotion that shifts with context (sadness, anger, joy)  
-🔥 *Phase 3: Creating *multi-agent orchestration where NPCs debate, learn, and evolve
+🎓 Bachelor's in Artificial Intelligence & Data Science (MESCE)  
+💼 Data Scientist Intern @ Future Optima IT Solutions Pvt Ltd  
+🚀 Passionate about solving real-world problems with AI, Computer Vision, and NLP  
+📚 Exploring LLMs, LangChain, RAG, Generative AI, and Deep Learning  
+💡 Strong focus on AI-powered automation, search systems & intelligent assistants
 
-Follow my journey as I build lifelike AI NPCs: characters with memory,context and personality.
-
-
+---
 
 
 
