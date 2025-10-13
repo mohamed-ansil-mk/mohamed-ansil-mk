@@ -1,5 +1,11 @@
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt = "mohamed ansil emotional AI NPC developer"> Mohamed Ansil MK
-*⁠ Human Voice Architect (Backend Engineer / Conversational AI Specialist / Emotionally Intelligent NPC Developer) ⁠*
+
+
+
+<p align="center">
+  <strong>AI & Data Science Engineer | Python Developer | ML & NLP Enthusiast</strong><br>
+  📍 UAE | 🌍 Open to International Opportunities
+</p>
 
 ---
 
