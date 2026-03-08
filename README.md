@@ -42,8 +42,7 @@
 #
 
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />  GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-ansil-mk&show_icons=true&theme=radical)
+
 
 #
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
